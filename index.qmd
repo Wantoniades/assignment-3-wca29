@@ -5,3 +5,5 @@ title: "Website of Bad ggPlots"
 Created by [William Antoniades](https://github.com/Wantoniades) and [Jennifer Owiyo](https://github.com/jao9595)
 
 ![Protein concentration in each fraction from human urine](images/protein_concentration_plot.png)
+
+![Geom_smooth is way too big](unnamed-chunk-4-1.png)
