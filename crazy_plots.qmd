@@ -1,0 +1,17 @@
+---
+editor: visual
+---
+
+```{r}
+#| message: false
+#| echo: false
+library(tidyverse)
+```
+
+```{r}
+ggplot(mpg, mapping = aes(x = manufacturer, y = hwy, shape = drv)) +
+  geom_boxplot(outliers = FALSE) +
+  geom_jitter(mapping = aes(color = manufacturer), size = 10)
+```
+
+The point size is too big, the x axis is cramped, and the legend is cut off. No good!

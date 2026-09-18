@@ -7,6 +7,13 @@
     "text": "Has 2 cats\nJust passed the A Exam\nWishes he was better at cooking"
   },
   {
+    "objectID": "crazy_plots.html",
+    "href": "crazy_plots.html",
+    "title": "assignment-3-wca29",
+    "section": "",
+    "text": "ggplot(mpg, mapping = aes(x = manufacturer, y = hwy, shape = drv)) +\n  geom_boxplot(outliers = FALSE) +\n  geom_jitter(mapping = aes(color = manufacturer), size = 10)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Website of Bad ggPlots",
