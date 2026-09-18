@@ -1,0 +1,16 @@
+---
+title: "Jennifer"
+editor: visual
+---
+
+## My name is Jennifer Owiyo
+
+*collaborating with William on this assignment* 
+
+- I am from Kenya, a country in East Africa
+
+- I an undergrad (senior).
+
+- I love watching Tennis and formula 1, two things on my bucket list are to be able to attend both events in person!
+
+![An image of the sunset from the last time I was home](IMG_1998.jpeg)

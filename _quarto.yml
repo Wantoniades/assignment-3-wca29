@@ -11,6 +11,8 @@ website:
       - about.qmd
       - href: crazy_plots.qmd
         text: MPG plots
+      - href: Jennifer.qmd
+        text: Jennifer's corner
 
 format:
   html:
